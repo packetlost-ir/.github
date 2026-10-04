@@ -55,4 +55,4 @@ For project inquiries, technical consultations, or partnership opportunities, pl
 
 * **Official Website:** [packetlost.ir](https://packetlost.ir)
 * **Lead Architect & Founder:** [Mohammad Saleh Abbasi](https://github.com/mohammad3a1eh)
-* **Business Email:** `info@packetlost.ir`
+* **Business Email:** `packetlost.ir@gmail.com`
